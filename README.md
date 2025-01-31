@@ -1,4 +1,4 @@
-# mailto-form
+# mailto Form
 
 A form I created recently as a small practice project.
 
